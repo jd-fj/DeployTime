@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(196, 153, 153, 0.095);
+}
+
+ #mouth {
+  /* fill: hsla(calc(var(--base-hue) + var(--diagonalIndex))); */
+  fill: rgba(24, 0, 0, 0.98);
+}
+
+#lip {
+  fill: hsla(calc(var(--base-hue) + var(--diagonalIndex)));
+}
